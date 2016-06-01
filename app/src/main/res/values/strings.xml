@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SHome</string>
+    <string name="hello_world">SHOME Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView2">Сообщение об ошибке</string>
+    <string name="textView1">Распознанный текст</string>
+    <string name="textView3">Введите адрес  и нажмите кнопку</string>
+    <string name="editTexts">98:D3:31:B0:86:16</string>
+    <string name="textView5">Готовность распознавания</string>
+    <string name="textView6">Температура</string>
+    <string name="button1">Запустить распознавание</string>
+    <string name="button2">Остановить распознавание</string>
+    <string name="button3">Подключить MySQL</string>
+    <string name="tv_data">DATABASE</string>
+</resources>
